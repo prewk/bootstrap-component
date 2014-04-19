@@ -1,0 +1,14 @@
+{
+	"name": "bootstrap",
+	"description": "Twitter Bootstrap",
+	"version": "3.1.1",
+	"main": "index.js",
+	"scripts": ["js/bootstrap.js"],
+	"styles": ["css/bootstrap.css"],
+	"fonts": [
+		"fonts/glyphicons-halflings-regular.eot",
+		"fonts/glyphicons-halflings-regular.svg",
+		"fonts/glyphicons-halflings-regular.ttf",
+		"fonts/glyphicons-halflings-regular.woff"
+	]
+}
