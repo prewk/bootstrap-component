@@ -3,7 +3,7 @@
 	"description": "Twitter Bootstrap",
 	"version": "3.1.1",
 	"main": "index.js",
-	"scripts": ["js/bootstrap.js"],
+	"scripts": ["js/bootstrap.js", "index.js"],
 	"styles": ["css/bootstrap.css"],
 	"fonts": [
 		"fonts/glyphicons-halflings-regular.eot",
