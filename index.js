@@ -1,1 +1,1 @@
-require('js/bootstrap.js');
+require('./js/bootstrap.js');
